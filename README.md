@@ -6,7 +6,8 @@ Restez pas tek1 a vie et codez bien.
 
 ## SOMMAIRE
 
-*[BSQ ALGO](https://github.com/Adaiki/EPITECH-2023/blob/master/README.md#bsq)
+* [BSQ ALGO](https://github.com/Adaiki/EPITECH-2023/blob/master/README.md#bsq)
+* TODO
 
 ## BSQ ALGO
 
