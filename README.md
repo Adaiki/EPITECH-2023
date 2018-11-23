@@ -40,3 +40,15 @@ La valeur d'une case est soit 0 (Si c'est un mur) ou la valeur de la plus petite
 121120
 122011
 ```
+
+La seule chose qui reste a faire est de trouver la plus grande valeur (sa premiere occurence).
+
+La case trouvee est la position inferieure droite du carre, carre qui a pour taille la valeur de la case.
+
+```
+.oxx.o
+o.xxo.
+..o...
+.....o
+...o..
+```
