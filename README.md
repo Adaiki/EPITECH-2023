@@ -4,4 +4,10 @@ Salut les moldus.
 
 # BSQ
 
-L'algo il est facile wallah
+```
+.o...o
+o...o.
+..o...
+.....o
+...o..
+```
