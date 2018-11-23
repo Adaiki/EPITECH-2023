@@ -4,11 +4,11 @@ Salut les moldus, c'est Harry, et ici c'est mon petit Github avec des tips parce
 
 Restez pas tek1 a vie et codez bien.
 
-# SOMMAIRE
+## SOMMAIRE
 
-[BSQ ALGO](https://github.com/Adaiki/EPITECH-2023/blob/master/README.md#bsq)
+*[BSQ ALGO](https://github.com/Adaiki/EPITECH-2023/blob/master/README.md#bsq)
 
-# BSQ ALGO
+## BSQ ALGO
 
 Je vais vous faire une petite explication de l'algorithme vu en follow-up
 
