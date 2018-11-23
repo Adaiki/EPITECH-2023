@@ -27,7 +27,7 @@ Cette forme nous donne deja quelques informations, on peut voir sur la premiere 
 
 Maintenant, la partie principale de l'algo
 
-La valeur d'une case est soit 0 (Si c'est un mur) ou la valeur de la plus petite case autour + 1 (Au dessus, a gauche et au dessus a gauche)
+La valeur d'une case est soit 0 (Si c'est un mur) ou la valeur de la plus petite case autour plus un (Au dessus, a gauche et au dessus a gauche)
 
 ```
 101110
