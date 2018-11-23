@@ -27,3 +27,16 @@ Une fois transformee avec des valeurs numeriques, la map ressemblera a ceci
 111110
 111011
 ```
+Cette forme nous donne deja quelques informations, on peut voir sur la premiere ligne `101110` qu'il y a 4 carres de 1.
+
+Maintenant, la partie principale de l'algo
+
+La valeur d'une case est soit 0 (Si c'est un mur) ou la valeur de la plus petite case autour (Au dessus, a gauche et au dessus a gauche)
+
+```
+101110
+011201
+110111
+121120
+122011
+```
