@@ -39,12 +39,12 @@ Une map valide a
 
 ## Déplacements et collisions
 
-Pour déplacer le personnage (P), et que c'est un espace qui le suit, inversez les deux caractères (`P ` deviendra ` P`)
-Si c'est un X qui est après, faites de même avec le X (`PX ` deviendra `P X` puis ` PX`)
-Si le personnage est suivi d'un X et d'un O, déplacez le X sur le O (`PXO` deviendra ` PX`)
-	Si vous marcher juste sur un O, afficher P à sa place (`PO` deviendra ` P`)
-	Si vous enlevez un P ou un X d'un O, réaffichez le (`PX ` deviendra ` PX `, et en bougeant encore ` OPX`)
-Sinon, ne bougez rien
+* Pour déplacer le personnage (P), et que c'est un espace qui le suit, inversez les deux caractères (`P ` deviendra ` P`)
+* Si c'est un X qui est après, faites de même avec le X (`PX ` deviendra `P X` puis ` PX`)
+* Si le personnage est suivi d'un X et d'un O, déplacez le X sur le O (`PXO` deviendra ` PX`)
+	* Si vous marcher juste sur un O, afficher P à sa place (`PO` deviendra ` P`)
+	* Si vous enlevez un P ou un X d'un O, réaffichez le (`PX ` deviendra ` PX `, et en bougeant encore ` OPX`)
+* Sinon, ne bougez rien
 	
 Pour récupérer la direction, vous devez récupérez l'input (les flèches du claviers), renseignez vous sur les fonctions `getch` et `keypad`
 	
