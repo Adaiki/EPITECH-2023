@@ -3,8 +3,6 @@
 # Sommaire
 * ## [Le jeu](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md#le-jeu-1)
 * ## [Map](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md#map-1)
-	* [Récupération de la map](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md#récupération-de-la-map-1)
-	* [Vérification de la map](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md#vérification-de-la-map-1)
 * ## [Déplacements et collisions](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md#déplacements-et-collisions-1)
 * ## [État de la partie](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md#état-de-la-partie-1)
 * ## [Fonction du jeu](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md#fonction-du-jeu-1)
