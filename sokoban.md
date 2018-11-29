@@ -23,7 +23,7 @@ Les fonctions autorisées utiles pour récupérer la map sont
 * (f)read
 * getline
 
-Vous pouvez utiliser `(f)open, (f)read et (f)close` ou découvrir une fonction qui est `getline` (faites attention, getline realloc dans certains cas, trouvez pourquoi et comment ne pas le faire realloc), à vous de choisir
+Vous pouvez utiliser `(f)open, (f)read et (f)close` ou découvrir une fonction qui est `getline`, à vous de choisir
 
 (Vous devriez conserver une copie intacte de la map, petit conseil)
 
