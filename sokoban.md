@@ -21,7 +21,6 @@ Les fonctions autorisées utiles pour récupérer la map sont
 * (f)open
 * (f)close
 * (f)read
-* (f)write
 * getline
 
 Vous pouvez utiliser `(f)open, (f)read et (f)close` ou découvrir une fonction qui est `getline`, à vous de choisir
