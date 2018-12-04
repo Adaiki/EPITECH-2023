@@ -31,7 +31,7 @@ Vous pouvez utiliser `(f)open, (f)read et (f)close` ou découvrir une fonction q
 
 Une map valide a 
 
-* Des **murs (#) fermés**
+* ~~Des **murs (#) fermés**~~ Les murs ne doivent pas forcement etre fermes, mais faites attention a ne pas segfault en en sortant
 * **Un seul** player (P)
 * Autant (ou plus) de rangements (O) que de boites (X)
 * Est seulement composée de "#OXP \n"
