@@ -33,7 +33,7 @@ Une map valide a
 
 * ~~Des **murs (#) fermés**~~ Les murs ne doivent pas forcement etre fermes, mais faites attention a ne pas segfault en en sortant
 * **Un seul** player (P)
-* Autant (ou plus) de rangements (O) que de boites (X)
+* Autant (ou plus) de boites (X) que de rangements (O)
 * Est seulement composée de "#OXP \n"
 
 ## Déplacements et collisions
