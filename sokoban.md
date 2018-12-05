@@ -47,7 +47,7 @@ Une map valide a
 	
 Pour récupérer la direction, vous devez récupérez l'input (les flèches du claviers), renseignez vous sur les fonctions `getch` et `keypad`
 	
-Vous pouvez gerer differement les deplacements (CF http://www.cs.ukzn.ac.za)	
+Vous pouvez gerer differement les deplacements (CF http://www.cs.ukzn.ac.za/~hughm/os/notes/ncurses.html)
 
 ## État de la partie
 
