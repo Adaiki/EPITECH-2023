@@ -47,6 +47,8 @@ Une map valide a
 	
 Pour récupérer la direction, vous devez récupérez l'input (les flèches du claviers), renseignez vous sur les fonctions `getch` et `keypad`
 	
+Vous pouvez gerer differement les deplacements (CF http://www.cs.ukzn.ac.za)	
+
 ## État de la partie
 
 Si tous les X sont sur des O, la partie est gagnée.
