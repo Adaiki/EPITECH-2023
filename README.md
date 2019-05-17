@@ -9,5 +9,6 @@ Restez pas tek1 a vie et codez bien.
 * [BSQ ALGO](https://github.com/Adaiki/EPITECH-2023/blob/master/BSQ.md)
 * [SOKOBAN](https://github.com/Adaiki/EPITECH-2023/blob/master/sokoban.md)
 * [TETRIS](https://github.com/Adaiki/EPITECH-2023/blob/master/tetris.md)
+* [COREWAR](https://github.com/Adaiki/EPITECH-2023/blob/master/corewar.md)
 
 
