@@ -10,4 +10,4 @@ Ca va vous créer la même trace que la moulinette officielle dans votre repo so
 
 [LIEN DE TÉLÉCHARGEMENT DE L'ARCHIVE](https://filebin.net/65otu793x6voqt02/mouli.tar?t=ieob4zc7)
 
-DISCLAIMER : Ce script est à but pédagogique et ne doit pas être utilisé sous risque de se faire flag triche, à vos risques et périls
+**DISCLAIMER : Ce script est à but pédagogique et ne doit pas être utilisé sous risque de se faire flag triche, à vos risques et périls**
