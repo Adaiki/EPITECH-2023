@@ -1,8 +1,8 @@
-Hello, je suis au travail alors ce message n'est pas super beau, mais assez pratique.
+Hello, je suis au travail alors ce message n'est pas super beau, mais bon hein.
 
 Je vous partage une archive qui est une moulinette pour BSQ.
 
-Désarchivez la directement dans votre repo BSQ
+Désarchivez la directement dans votre repo
 
 La commande dont vous avez besoin est `make && ./tests/tests.sh > trace.txt`
 
